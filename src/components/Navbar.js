@@ -27,7 +27,7 @@ export default function Navbar() {
           <NavbarItem title="Contact" path="/contact" />
         </Link>
       </div>
-      <div className="w-0.5 bg-gray-300 h-6 mx-4"></div>
+      <div className="w-0.5 bg-gray-300 h-6 mx-2"></div>
       <div className="flex gap-2">
         <Link to="/signin" aria-label="Sign in">
           <NavbarItem title="Sign in" path="/signin" />
